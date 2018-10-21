@@ -2,16 +2,16 @@
 
 **PhotoMap** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
-- [ ] User can view a map (+2pt)
-- [ ] User can take a photo (+1pt)
-- [ ] User can tag a location (+1pt)
-- [ ] User can drop a pin with image annotation (+1pt)
+- [*] User can view a map (+2pt)
+- [*] User can take a photo (+1pt)
+- [*] User can tag a location (+1pt)
+- [*] User can drop a pin with image annotation (+1pt)
 
 The following **stretch** user stories are implemented:
 
@@ -22,14 +22,14 @@ The following **stretch** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. How infinite scrolling works.
+2. How to implement scrollviews.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/nH9vaY7.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
